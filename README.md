@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Nafissatou DIALLO
+
 # 👋 Hi, I'm Diallo Nafissatou
 
 ## 🎓 Statistical Analyst
@@ -69,8 +69,8 @@ I am a passionate statistical analyst specializing in data collection, processin
 
 ### 🔗 Connect with me
 
-- [LinkedIn](#) 
-- [GitHub](#)
+- [[LinkedIn](https://www.linkedin.com/in/nafissatou-diallo-495739288/)](#) 
+- [[GitHub](https://github.com/diallonafissa1)](#)
 
 ---
 
